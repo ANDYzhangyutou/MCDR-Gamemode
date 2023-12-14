@@ -8,3 +8,5 @@ This plugin can be a good help for a series of server switches player mode funct
 If you want to switch to spectator mode, all you need is input! c
 If you want to switch to survival mode, you only need input! s
 And this plugin does not require any permission to use, if your server needs this function, welcome to use this plugin!
+
+Please note that the current coordinates will not be recorded after the player switches to Spectator mode, and after switching to survival mode, the player will directly change to survival mode, and will not tp to the spectator mode switch! If you need to tp the player to the place where the player switches to Spectator mode after Spectator mode switches to Survival mode, please contact me!
