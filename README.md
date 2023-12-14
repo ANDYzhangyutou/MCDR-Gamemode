@@ -1,4 +1,5 @@
 English | [中文](https://github.com/ANDYzytnb/MCDR-Gamemode/blob/main/README_CN.md)
+
 Hello, this is a plugin about MCDR, first of all you need to know what MCDR is, the link is: https://github.com/Fallen-Breath/MCDReforged
 if you know how to use it, you can download this plugin to achieve the following functions：
 1. Available to all players! c    Switch to spectator mode
