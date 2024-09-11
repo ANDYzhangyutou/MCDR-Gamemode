@@ -1,5 +1,9 @@
 [English](https://github.com/ANDYzytnb/MCDR-Gamemode/blob/main/README.md) | 中文
 
+# 停止更新警告
+### 此项目可能不会再更新，因为已经没有什么可更新的了。
+### 感谢您的使用！
+
 您好，这是一个关于MCDR的插件，首先您需要知道MCDR是什么，链接是：https://github.com/Fallen-Breath/MCDReforged
 如果您知道如何使用，可以下载本插件，实现以下功能：
 1.所有玩家可以使用!c切换为旁观者模式
